@@ -1,0 +1,33 @@
+body {
+  
+    /* color: #c6d03a; */
+    text-decoration: none;
+    padding: 0%;
+    margin: 0%;
+  }
+  p{
+    font-size: 20
+    font-weight: bold;
+    margin: 0%;
+    padding: 0;
+    color: #cbd544;
+  }
+  
+  /* H TAGS */
+  
+  /* h1 {
+    font-size: 3em;
+    color: FF2C00;
+    align: center;
+  }
+  h1 {
+    background-color: black;
+    color: white;
+  } */
+  h1{
+    background-color: rgb(15, 53, 137);
+    font-size: 100px;
+    color: rgb(161, 24, 24);
+    margin: 0px;
+    width: 100%;
+  }
