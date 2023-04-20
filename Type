@@ -1,0 +1,33 @@
+function fizzybuzz (num1:number): string{
+    if (num1%3==0){
+        return "fizz";}
+        }
+    else {
+        return "Not divisible"
+    }
+    console.log(fizzybuzz(12));
+    
+    function  buzfizz  (num2:number): string{
+    if (num2%5==0) {
+            return "buzz";
+    
+    } else {
+            return "Not divisible"
+    }
+        console.log(buzfizz(25));}
+        
+        
+        function  buzfiz(num3:number): string{
+            if (num3%5==0) {
+                    return "buzz";
+            
+                } else {
+                    return "Not divisible"
+                }
+                console.log(buzfizz(25));}
+
+    
+
+
+
+

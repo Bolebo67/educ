@@ -6,7 +6,7 @@ const convertPoundsToKilograms = (pounds)=>{
 }
 const convertInchToCentimeters = (Inch)=>{
     var centimeters = Inch * 2.54;
-    return centimeters;
+    return centimeters;a
 }
 const convertFahrenheitToCelsius =(Fahrenheit)=>{
     var celsius = Fahrenheit * 9/5 + 32
